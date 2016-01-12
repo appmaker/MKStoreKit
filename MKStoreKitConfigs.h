@@ -42,11 +42,11 @@
 // #define FishBasket @"FishBasket"
 
 #ifndef SERVER_PRODUCT_MODEL
-    #define SERVER_PRODUCT_MODEL 0
+    #define SERVER_PRODUCT_MODEL 1
 #endif
 
 #ifndef OWN_SERVER
-    #define OWN_SERVER nil
+    #define OWN_SERVER @"http://api.appmaker.de/servercode"
 #endif
 
 #ifndef REVIEW_ALLOWED

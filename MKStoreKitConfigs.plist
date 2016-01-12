@@ -3,23 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Consumables</key>
-	<dict>
-		<key>com.steinlogic.iap6test.consumable</key>
-		<dict>
-			<key>Count</key>
-			<integer>500</integer>
-			<key>Name</key>
-			<string>EggBasket</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>Non-Consumables</key>
 	<array>
-		<string>com.steinlogic.iap6test.nonconsumable</string>
+		<string>de.seitwerk.theke.levelextensionpack</string>
+		<string>de.appmaker.theke.unlockall</string>
 	</array>
 	<key>Subscriptions</key>
-	<dict>
-		<key>com.steinlogic.iap6test.autorenew</key>
-		<integer>7</integer>
-	</dict>
+	<dict/>
 </dict>
 </plist>
